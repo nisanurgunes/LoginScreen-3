@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongo:
+      uri: mongodb+srv://userdb:userdb@cluster0.8zqrp.mongodb.net/user?retryWrites=true&w=majority&appName=Cluster0
+      database: User
